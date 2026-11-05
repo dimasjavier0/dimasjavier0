@@ -43,7 +43,6 @@ I'm a **Software Developer** from Honduras 🇭🇳 and a Systems Engineer gradu
 
 <p>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
